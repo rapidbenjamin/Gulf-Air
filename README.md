@@ -1,6 +1,6 @@
-Touraine Tech Website
+Free City Tour
 =====================
-[![Node.js CI](https://github.com/TouraineTech/tourainetech.github.io/actions/workflows/deployGHPages.yml/badge.svg)](https://github.com/TouraineTech/tourainetech.github.io/actions/workflows/deployGHPages.yml)
+![glufair](https://github.com/rapidbenjamin/Gulf-Air/blob/main/assets/img/gulfair.png)
 
 To work on the project checkout the `develop` branch.
 
